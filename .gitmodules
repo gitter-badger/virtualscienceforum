@@ -1,0 +1,10 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "public"]
+	path = public
+	url = git@github.com:virtualconference/virtualconference.github.io.git
+	branch = master
+[submodule "themes/onedly"]
+	path = themes/onedly
+	url = https://github.com/cdeck3r/OneDly-Theme.git
