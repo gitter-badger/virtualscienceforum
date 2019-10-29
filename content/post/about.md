@@ -12,6 +12,7 @@ Modern technology, however, enables us to host virtual conferences with thousand
 of viewers and hundreds of interacting participants.
 
 Hosting a virtual conference has multiple benefits:
+
 * Reduction in CO2 emission due to elimination of travel
 * Enabling participants who are otherwise constrained (family) to participate
 * ...
