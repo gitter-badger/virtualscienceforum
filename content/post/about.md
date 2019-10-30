@@ -15,7 +15,8 @@ Hosting a virtual conference has multiple benefits:
 
 * Reduction in CO2 emission due to elimination of travel
 * Enabling participants who are otherwise constrained (family) to participate
-* ...
+* Trying changes to make this thing work.
+* Another change and commit
 
 ### The conference theme
 
