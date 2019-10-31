@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Conference</title>
+    <link>https://virtualconference.github.io/</link>
+    <description>Recent content on Virtual Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://virtualconference.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://virtualconference.github.io/post/about/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://virtualconference.github.io/post/about/</guid>
+      <description>What is a virtual conference? Scientific conferences often require traveling to other parts of the world. Modern technology, however, enables us to host virtual conferences with thousands of viewers and hundreds of interacting participants.
+Hosting a virtual conference has multiple benefits:
+ Reduction in CO2 emission due to elimination of travel Enabling participants who are otherwise constrained (family) to participate Trying changes to make this thing work. Another change and commit  The conference theme This conference is titled &amp;ldquo;The very first virtual conference on [subject]&amp;ldquo;.</description>
+    </item>
+    
+    <item>
+      <title>How-To</title>
+      <link>https://virtualconference.github.io/post/conclusion/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://virtualconference.github.io/post/conclusion/</guid>
+      <description>The virtual conference will be held using (Software) for registered particpants, and will be livestreamed on youtube/twitch/(mixer?).
+How to participate If you&amp;rsquo;re only interested in viewing the talks but are certain that you don&amp;rsquo;t want to be able to ask questions to the speaker, you can simply join the livestream.
+If you do wish to participate, please check out (Software).
+When joining, it is a courtesy to make sure you have your microphone muted unless you * Are the speaker or a moderator * A moderator signals that you can ask a question * &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://virtualconference.github.io/post/project/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://virtualconference.github.io/post/project/</guid>
+      <description>The preliminary program and confirmed invited speakers are listed here.
+Invited speakers  Jane Doe (UnivA) John Deer (UnivB) Sheldon Raj Xavi Zorro  Program (There should be a &amp;lsquo;select timezone&amp;rsquo; here!)
+9:00 - 9:55 - Invited speaker 1 10:00 - 10:25 - Invited speaker 2 10:30 - 10:55 - Invited speaker 3 11:00 - 12:00 - (Break; does this make sense? Lunch for some, dinner for other, but entirely useless for most?</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://virtualconference.github.io/post/registration/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://virtualconference.github.io/post/registration/</guid>
+      <description>For official conference participants, registration can be done here through this Google form. If you&amp;rsquo;re not interested in being an official participant, you may join the livestream of the conference here (note: you will not be able to directly interact with the speaker).
+Sign up for receiving updates about the conference by joining the mailing list here. Be sure to follow us on Twitter to get live updates.
+Blockquote with attribution  Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.</description>
+    </item>
+    
+    <item>
+      <title>General Data Protection Regulation (GDPR)</title>
+      <link>https://virtualconference.github.io/imprint-gdpr/gdpr/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://virtualconference.github.io/imprint-gdpr/gdpr/</guid>
+      <description>GDPR information are highly specific to the site. You may use a generator, e.g. Datenschutz-Generator</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://virtualconference.github.io/imprint-gdpr/imprint/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://virtualconference.github.io/imprint-gdpr/imprint/</guid>
+      <description>Information according to § 5 TMG
+first and last name
+address
+Contact: Phone: phone number
+E-Mail: e-mail address
+Responsible for content according to § 55 Abs. 2 RStV: first and last name
+address
+Disclaimer: Content Liability The contents of our pages were created with great care. However, we can not assume any liability for the accuracy, completeness and timeliness of the content. As a service provider we are responsible according to § 7 Abs.</description>
+    </item>
+    
+  </channel>
+</rss>
