@@ -4,6 +4,7 @@ description = "Virtual Conference Information"
 date = "2019-10-27"
 author = "Evert van Nieuwenburg, Xavi Bonet, Anton Akhmerov"
 sec = 1
+color = "lightgray"
 +++
 
 ### What is a virtual conference?

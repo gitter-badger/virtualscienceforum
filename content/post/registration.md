@@ -4,6 +4,7 @@ description = "how to register"
 date = "2019-10-27"
 author = "Evert van Nieuwenburg, Xavi Bonet, Anton Akhmerov"
 sec = 2
+color = "white"
 +++
 
 For official conference participants, registration can be done here through

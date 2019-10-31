@@ -4,6 +4,8 @@ description = "How the virtual conference works"
 date = "2019-10-27"
 author = "Evert van Nieuwenburg, Xavi Bonet, Anton Akhmerov"
 sec = 4
+color = "white"
+#image = "/imgs/testbackground.jpeg"
 +++
 
 The virtual conference will be held using (Software) for registered particpants, and

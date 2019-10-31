@@ -4,6 +4,7 @@ description = "Invited speakers and program"
 date = "2019-10-27"
 author = "Evert van Nieuwenburg, Xavi Bonet, Anton Akhmerov"
 sec = 3
+color = "lightgray"
 +++
 
 The preliminary program and confirmed invited speakers are listed here.
