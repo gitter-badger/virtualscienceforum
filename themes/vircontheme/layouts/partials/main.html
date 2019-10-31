@@ -1,0 +1,23 @@
+<section id="main">
+
+<!-- Page Content -->
+{{ range $index, $element := where (.Site.RegularPages.ByParam "sec") "Section" "in" .Site.Params.mainSections }}
+<div class="content-section-a" style="background-color: {{ .Params.color }}; background-image: url( {{.Params.image }} );  background-size:cover; background-position: center;">
+   
+    <div class="container">
+            <div class="row">
+                <div>
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ .Title }}</h2>
+                    {{ .Content }}
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+{{ end }}
+
+</section>

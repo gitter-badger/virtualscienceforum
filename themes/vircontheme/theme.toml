@@ -1,0 +1,17 @@
+name = "Virtual Conference Theme"
+license = "MIT"
+licenselink = "To-update"
+description = "Theme for virtual conference websites."
+homepage = "https://github.com/virtualconference/websitegenerator"
+tags = ["virtual conference", "opensource", "single page"]
+features = ["github", "images" ]
+min_version= "0.48"
+
+[author]
+     name = "The OG virtual conference team"
+
+# If porting an existing theme
+[original]
+    author =  "Christian Decker"
+    homepage = "https://github.com/cdeck3r/OneDly-Theme"
+    repo = "https://github.com/cdeck3r/OneDly-Theme"
