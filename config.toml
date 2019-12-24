@@ -1,4 +1,4 @@
-baseurl = "https://virtualconference.github.io"
+baseurl = "https://virtualscienceforum.org"
 languageCode = "en-us"
 title = "Virtual Conference"
 theme = "vircontheme"
@@ -11,7 +11,7 @@ theme = "vircontheme"
     description = "Virtual Conference Website"
     author_url = "virtualconference.github.io"
     author_name = "Evert and Xavi"
-    project_url = "//github.com/virtualconference/virtualconferencewebsite"
+    project_url = "//github.com/virtualscienceforum/websitegenerator"
 
     headercolor = ""
     headerimage = "/imgs/testbackground.jpeg"
@@ -51,7 +51,7 @@ theme = "vircontheme"
 #
 [social]
     # Coding Communities
-    github           = "virtualconference/virtualconferencewebsite"
+    github           = "virtualscienceforum/websitegenerator"
     gitlab           = ""
     stackoverflow    = "" # User Number
     bitbucket        = ""
@@ -94,7 +94,7 @@ theme = "vircontheme"
     orcid            = ""
     researchgate     = ""
     # Email
-    email = "info@virtualconference.com"
+    email = "info@virtualscienceforum.org"
 
 #
 # Adjust privacy settings
